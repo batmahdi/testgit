@@ -1,1 +1,0 @@
-print("Khaled was here.")
